@@ -1,0 +1,14 @@
+Big data refers to the massive amount of data which cannot be stored, processed and analyzed using traditional ways.
+The main elements of big data are:
+Volume - There is a massive amount of data generated every second.
+Velocity - The speed at which data is generated, collected and analyzed
+Variety - The different types of data: structured, semi-structured, unstructured
+Value - The ability to turn data into useful insights for your business
+Veracity - Trustworthiness in terms of quality and accuracy
+The main challenges that big data faced and the solutions for each are listed below:
+Single central storage
+Serial processing
+One input
+One Output
+One Processor
+Lack of ability to process unstructured data
