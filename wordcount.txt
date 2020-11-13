@@ -1,0 +1,16 @@
+The Venn diagram provides a high level overview of the Analytics computing platform dependencies.
+The platform has to accommodate:
+-Data Feeds (some called data pipelines)
+-Data Extraction / conversion
+-Data mining
+-Discovery and Visualization
+-Data analytics
+-Machine Learning
+-Deep Learning
+-Archival and long-term retention
+-Batch processing: daily and micro batches
+Provide access and tools for multiple users:
+-Developers
+-Data and Business Analysts
+-Data Scientists
+-End Users
